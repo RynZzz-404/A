@@ -64,7 +64,7 @@ console.log(color('NeobotzMD : Version 3.0.0\n','silver'))
     const neobot = neobotConnect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['NEOBOT-MD','Safari','1.0.0'],
+        browser: ['RYAN-STORE','Safari','1.0.0'],
         auth: state
     })
 
